@@ -1,0 +1,6 @@
+{
+    "include" : "src/",
+    "exclude" : "",
+    "include_ext": [".py"],
+    "sleep_time_s": 1.2 
+} 
